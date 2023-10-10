@@ -17,6 +17,10 @@ Once you get your new API key, replace the `REACT_APP_DAILY_API_KEY` in the `.en
 
 For the future, we will probably be using Netlify for the React app deployment.
 
+# Demo Example
+
+![working-call-method](https://github.com/WebTutoringProject/video-chat-test/assets/58316986/ef43ec0d-1e8e-4030-9dd4-00c67990411d)
+
 # Notes
 
 Got this while looking to create a local call.
