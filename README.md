@@ -26,8 +26,10 @@ For the future, we will probably be using Netlify for the React app deployment.
 Got this while looking to create a local call.
 
 Test call code:
+```cs
 <script crossorigin src="https://unpkg.com/@daily-co/daily-js"></script>
 <script>
   callFrame = window.DailyIframe.createFrame();
   callFrame.join({ url: 'https://pricktest.daily.co/hello-daily' });
 </script>
+```
