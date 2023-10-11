@@ -14,6 +14,7 @@ When the browser automatically opens (if not, open to `http://localhost:3000`) a
 https://dashboard.daily.co/developers
 
 Once you get your new API key, replace the `REACT_APP_DAILY_API_KEY` in the `.env` file with your own key.
+Leave the `local` section alone.
 
 For the future, we will probably be using Netlify for the React app deployment.
 
