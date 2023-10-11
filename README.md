@@ -10,7 +10,7 @@ Once that is installed, write in the terminal of the project `npm install`.
 
 If all goes well and there is no security faults, start npm by writing `npm start`.
 
-When the browser automatically opens (if not, open to `http://localhost:3000`) and ypu get an error when starting a call, it means the api in the `.env` file is invalid. You will need to create a Daily API key by making an account on their website:
+When the browser automatically opens (if not, open to `http://localhost:3000`) and ypu get an error when starting a call, it means the api in the `.env` file is invalid or does not exist. You will need to create the `.env` file or a Daily API key by making an account on their website:
 https://dashboard.daily.co/developers
 
 Once you get your new API key, replace the `REACT_APP_DAILY_API_KEY` in the `.env` file with your own key.
